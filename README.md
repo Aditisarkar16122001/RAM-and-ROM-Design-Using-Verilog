@@ -57,6 +57,3 @@ This project demonstrates understanding of:
 - EPWave for waveform viewing
 
 ---
-
-
-gtkwave dump.vcd
