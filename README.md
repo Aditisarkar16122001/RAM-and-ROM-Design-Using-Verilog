@@ -1,6 +1,6 @@
 # RAM-and-ROM-Design-Using-Verilog
 
-# Verilog Memory Design – ROM & Single Port RAM
+
 
 ##  Project Overview
 This repository contains Verilog HDL implementations of:
